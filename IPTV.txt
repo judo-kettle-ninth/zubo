@@ -1,7 +1,7 @@
-更新时间: 2026-02-06 08:58:04（北京时间）
+更新时间: 2026-02-06 19:49:19（北京时间）
 
 更新时间,#genre#
-2026-02-06 08:58:04,https://kakaxi-1.asia/LOGO/Disclaimer.mp4
+2026-02-06 19:49:19,https://kakaxi-1.asia/LOGO/Disclaimer.mp4
 
 央视频道,#genre#
 CCTV1,http://115.171.216.84:4000/rtp/225.1.8.1:8008$北京市电信
